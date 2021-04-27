@@ -1,0 +1,6 @@
+[1]xhynek11;girl123;Vojtech;Hynek;IBEP;1999
+[2]xsamoz00;password!;Jakub;Samozdaj;IBEP;1998
+[3]xbasda05;FyzikaSucks;Nadezda;Basda;PFMAN;1984
+[4]xrejna00;P4mpel15k4;Adam;Rejna;PFMAN;1999
+[5]xtron00;goodboy;Jakub;Tronky;IBEP;1995
+[6]xborav05;heyhou;Marian;Boravcik;PFMAN;1989
